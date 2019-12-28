@@ -1,5 +1,5 @@
-// I referenced code written by termoshtt
-// https://rust-jp.slack.com/archives/C8FLSR5F1/p1577469085069900
+// I referenced the article below (written in Japanese)
+// https://qiita.com/termoshtt/items/338549b9bf3aba6a5def
 
 use plotlib::line::{Line, Style};
 use plotlib::page::Page;
